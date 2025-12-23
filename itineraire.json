@@ -1,0 +1,125 @@
+{
+  "pays": "Portugal",
+  "drapeau": "🇵🇹",
+  "symbole": "🌸",
+  "titre": "Funchal : Évasion Douce au Cœur de Madère",
+  "budget_total": "700 €",
+  "duree": "4 jours",
+  "temps_vol": "3h45 (depuis Paris, France)",
+  "escale": "0",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et Premiers Pas à Funchal",
+      "legende": "Après un vol direct depuis Paris, installez-vous confortablement dans votre hôtel. La première journée est dédiée à une découverte en douceur de la charmante vieille ville de Funchal, ses ruelles colorées et son ambiance paisible. Laissez-vous imprégner par l'atmosphère insulaire.",
+      "lieu": "Funchal",
+      "activites": [
+        "<strong>🛬 Arrivée à Funchal</strong>: Atterrissage à l'aéroport de Madère et transfert vers votre hébergement au cœur de Funchal.",
+        "<strong>🛏️ Installation à l'hôtel</strong>: Prenez le temps de vous installer et de vous rafraîchir après le voyage.",
+        "<strong>🚶‍♂️ Balade dans la Zona Velha</strong>: Flânez dans les rues pavées de la vieille ville, admirez les portes peintes de la Rua de Santa Maria et découvrez les petits commerces locaux."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Transfert aéroport",
+          "texte": "L'Aerobus relie l'aéroport au centre de Funchal en environ 30-45 minutes, une option économique et pratique."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🌺",
+      "titre": "Jardins Exotiques et Vues Panoramiques",
+      "legende": "Montez en téléphérique pour découvrir les splendeurs florales des jardins de Monte, offrant des panoramas à couper le souffle sur Funchal et l'océan. Une journée dédiée à la beauté naturelle et à la sérénité des paysages madériens.",
+      "lieu": "Funchal / Monte",
+      "activites": [
+        "<strong>🚠 Montée en téléphérique</strong>: Profitez d'une vue imprenable sur Funchal en montant au quartier de Monte par le téléphérique.",
+        "<strong>🌿 Visite du Monte Palace Tropical Garden</strong>: Explorez ce jardin luxuriant, ses plantes exotiques, ses lacs, ses cascades et ses œuvres d'art orientales.",
+        "<strong>🌸 Découverte du Jardin Botanique de Madère</strong>: À quelques pas, admirez une collection impressionnante de flore locale et internationale, avec des vues spectaculaires."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Astuce",
+          "texte": "Prévoyez de bonnes chaussures de marche pour les jardins, ils sont vastes et en pente."
+        },
+        {
+          "symbole": "🍽️",
+          "titre": "Pause déjeuner",
+          "texte": "Plusieurs petits cafés et restaurants sont disponibles à Monte pour une pause déjeuner avec vue."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🌊",
+      "titre": "Détente aux Piscines Naturelles de Porto Moniz",
+      "legende": "Partez à la découverte de la côte nord-ouest de Madère, réputée pour ses paysages sauvages. La journée culminera avec une baignade relaxante dans les célèbres piscines naturelles de Porto Moniz, formées par la lave volcanique et remplies par l'océan.",
+      "lieu": "Porto Moniz",
+      "activites": [
+        "<strong>🚗 Route panoramique vers Porto Moniz</strong>: Louez une voiture ou optez pour une excursion organisée pour admirer les paysages côtiers spectaculaires.",
+        "<strong>🏊 Baignade dans les piscines naturelles</strong>: Profitez d'une expérience unique en vous baignant dans ces bassins d'eau de mer protégés des vagues.",
+        "<strong>🚶‍♀️ Balade le long du front de mer</strong>: Après la baignade, promenez-vous sur la promenade de Porto Moniz et savourez l'air marin."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "⚠️",
+          "titre": "À savoir",
+          "texte": "Les piscines de Porto Moniz peuvent être très fréquentées en haute saison. Préférez une visite en matinée ou fin d'après-midi."
+        },
+        {
+          "symbole": "☀️",
+          "titre": "Équipement",
+          "texte": "N'oubliez pas votre maillot de bain, une serviette et de la crème solaire pour profiter pleinement des piscines."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🛫",
+      "titre": "Saveurs Locales et Départ",
+      "legende": "Avant de quitter cette île enchanteresse, plongez-vous une dernière fois dans l'ambiance locale en visitant le célèbre marché des Laboureurs. L'occasion parfaite pour quelques achats de dernière minute et pour savourer les saveurs de Madère avant votre vol retour.",
+      "lieu": "Funchal",
+      "activites": [
+        "<strong>🛍️ Visite du Mercado dos Lavradores</strong>: Explorez ce marché coloré où se mêlent fleurs exotiques, fruits tropicaux, légumes frais et poissons du jour.",
+        "<strong>☕ Dernier café et souvenirs</strong>: Profitez d'un dernier moment de détente dans un café et achetez quelques souvenirs artisanaux.",
+        "<strong>🛫 Départ de Funchal</strong>: Transfert vers l'aéroport pour votre vol retour vers Paris, la tête remplie de beaux souvenirs."
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "🍍",
+          "titre": "Dégustation",
+          "texte": "N'hésitez pas à goûter les fruits exotiques proposés au marché, certains sont uniques à Madère."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "184 €/pers (A/R depuis Paris)", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 110 €/pers (transferts aéroport, téléphérique, bus, location voiture partagée ou excursion)", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "Environ 220 €/pers (base 18€/repas pour 4 jours)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 150 €/pers (base 100€/nuit pour 3 nuits en hôtel 3* partagé)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 25 €/pers (jardins, musées)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Printemps (Avril-Juin)", "symbole": "🌷" },
+    { "titre": "Automne (Septembre-Octobre)", "symbole": "🍂" }
+  ],
+  "infos_pratiques": [
+    { "titre": "Climat doux toute l'année. Prévoir des couches de vêtements car le temps peut changer rapidement, surtout en altitude.", "symbole": "☀️" },
+    { "titre": "L'euro est la monnaie locale. Les cartes de crédit sont largement acceptées, mais un peu de liquide est utile pour les petits commerces.", "symbole": "💳" },
+    { "titre": "La location de voiture est recommandée pour explorer l'île à votre rythme. Les routes sont sinueuses et parfois escarpées.", "symbole": "🚗" },
+    { "titre": "Le portugais est la langue officielle, mais l'anglais est couramment parlé dans les zones touristiques.", "symbole": "🗣️" }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/ORY-FNC/2024-09-15/2024-09-18", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Visit Madeira", "url": "https://www.visitmadeira.com/fr/", "symbole": "📘" },
+    { "legende": "Transports locaux", "titre": "Horaires bus Funchal", "url": "https://www.horariosdofunchal.pt/en/", "symbole": "🚌" },
+    { "legende": "Météo", "titre": "Météo Funchal", "url": "https://www.ipma.pt/en/otempo/prev.localidade.html?localID=11&cidadeID=100", "symbole": "🌤️" }
+  ]
+}
